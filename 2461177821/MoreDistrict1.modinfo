@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="dd89bc0d-b6e7-479b-8fc1-873a030864f5" version="1">
+  <Properties>
+    <Name>MoreDistrict1</Name>
+    <Description>MoreDistricts</Description>
+    <Created>1618756639</Created>
+    <Teaser>More Districts</Teaser>
+    <Authors>m</Authors>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+  </Properties>
+  <InGameActions>
+    <UpdateDatabase id="NewAction">
+      <File>MD1.sql</File>
+    </UpdateDatabase>
+  </InGameActions>
+  <Files>
+    <File>MD1.sql</File>
+  </Files>
+</Mod>
