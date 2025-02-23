@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_BUILDING_BUILDM1" Language="en_US">
+			<Text>BuildM1</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BUILDM1_DESCRIPTION" Language="en_US">
+			<Text>Building Test</Text>
+		</Row>
+	</LocalizedText>
+</GameData>
